@@ -1,5 +1,10 @@
-### DATASETS ###
+## Algorithm
+Multi-source Breadth-first-search / Iteration of floodfill algorithm
 
+## Time complexity
+Average Time: O(k*(|V|+|E|))
+
+## DATASETS
 
 Road Network Graph - roadNet-CA.txt
 
@@ -9,7 +14,7 @@ Random Graph Generated - random_graph.txt
 
 Random Graph Generated random nodes used - random_nodes.txt
 
-### OUTPUTS ###
+## OUTPUTS
 
 Task (a) and (b):
 1. Road Network Output - roadCA_taskAB.txt
@@ -27,7 +32,7 @@ Empirical Study Graphs:
 1. Variable |H| Analysis - Variable_H_Analysis.png
 2. Variable k Analysis - Variable_K_Analysis.png
 
-### SCRIPTS ###
+## SCRIPTS
 GraphGenerator.ipynb - Run first three cells to generate a graph and store it. Change the
 number of nodes, vertices, output file names and number of random nodes to generate as desired.
 
